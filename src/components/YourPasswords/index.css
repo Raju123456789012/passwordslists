@@ -1,0 +1,101 @@
+.list-container {
+  list-style-type: none;
+  background-color: transparent;
+  border-radius: 10px;
+  border: 2px solid black;
+  height: 15vh;
+  max-width: 100vh;
+  margin-right: 10px;
+}
+.row {
+  display: flex;
+}
+.container10 {
+  display: flex;
+  justify-content: space-between;
+}
+.button1 {
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
+.delete {
+  height: 3vh;
+  margin-left: 45px;
+  margin-top: 5vh;
+}
+.color {
+  color: white;
+  margin-left: 20px;
+  font-size: 20px;
+  margin-top: 4vh;
+}
+.red {
+  background-color: red;
+  text-align: center;
+  height: 6vh;
+  width: 5vw;
+  border-radius: 3vh;
+  margin-left: 10px;
+  margin-top: 5vh;
+  color: white;
+}
+.blue {
+  background-color: blue;
+  text-align: center;
+  height: 6vh;
+  width: 5vw;
+  border-radius: 3vh;
+  margin-left: 10px;
+  margin-top: 5vh;
+  color: white;
+}
+.orange {
+  background-color: orange;
+  text-align: center;
+  height: 6vh;
+  width: 5vw;
+  border-radius: 3vh;
+  margin-left: 10px;
+  margin-top: 5vh;
+  color: white;
+}
+.pink {
+  background-color: pink;
+  text-align: center;
+  height: 6vh;
+  width: 5vw;
+  border-radius: 3vh;
+  margin-left: 10px;
+  margin-top: 5vh;
+  color: white;
+}
+.green {
+  background-color: green;
+  text-align: center;
+  height: 6vh;
+  width: 5vw;
+  border-radius: 3vh;
+  margin-left: 10px;
+  margin-top: 5vh;
+  color: white;
+}
+.yellow {
+  background-color: yellow;
+  text-align: center;
+  height: 6vh;
+  width: 5vw;
+  border-radius: 3vh;
+  margin-left: 10px;
+  margin-top: 5vh;
+  color: white;
+}
+.para {
+  color: white;
+  margin-left: 20px;
+  font-size: 10px;
+  margin-top: 10px;
+}
+.container11 {
+  margin-top: 20px;
+}
